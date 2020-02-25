@@ -3,6 +3,7 @@ recipe api with django from udemy course https://www.udemy.com/course/django-pyt
 
 
 
+
 # django-docker notes
 docker-compose build
 docker-compose up  <-- start app, run command, start development server
